@@ -19,9 +19,10 @@ Modular javascript and use es6 in JSP project. Generate JSP pages with bundled f
 ```
 ├── dev
 |  ├── js
-|     └── module    // put js modules by functionality
+|     └── module    // js modules by functionality
 |     └── src       // each page has a js entry, the same name with pages.
 |  ├── views        // all jsp file template 
+├── dist            // all generated files after npm run
 ```
 
 ### Run demo 
