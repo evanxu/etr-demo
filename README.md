@@ -29,7 +29,13 @@ Modular javascript and use es6 in JSP project. Generate JSP pages with bundled f
 * node.js 8+
 * npm 5+
 
-`npm install`
+`npm i grunt-cli -g`
+
+install grunt
+
+`npm i`
+
+install dependencies packages
 
 `npm run dev`
 
