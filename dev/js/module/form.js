@@ -1,5 +1,10 @@
-console.log('this is form validate')
+let formValidate = () => {
+    $(function(){
+        $('#test').html('this is a test')
+        console.log('this is form validate')
+    })
+}
 
-$(function(){
-    $('#test').html('this is a test')
-})
+export {
+    formValidate
+} 

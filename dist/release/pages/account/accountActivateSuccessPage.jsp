@@ -57,6 +57,6 @@
 
   <script src="/js/common.js"></script>
   
-  <script src="/js/accountActivateSuccessPage.8f51922a6.js"></script>
+  <script src="/js/accountActivateSuccessPage.40b475f2c.js"></script>
   
 </template:page>

@@ -6,9 +6,10 @@ webpackJsonp([1],[
 "use strict";
 
 
-__webpack_require__(0);
+var _form = __webpack_require__(0);
 
 $(function () {
+  (0, _form.formValidate)();
   console.log('this is accountActivateSuccessPage');
 });
 

@@ -34,4 +34,5 @@ module.exports = function(grunt) {
 
 
   grunt.registerTask('dev', ['clean:build', `webpack:${distFolder}`, `watch`]);
+  grunt.registerTask('build', ['clean:build', `webpack:${distFolder}`]);
 };

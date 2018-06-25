@@ -1,0 +1,1 @@
+webpackJsonp([0],[,,function(t,e,n){"use strict";function u(t){return t&&t.__esModule?t:{default:t}}var c=n(0),o=u(c),f=n(3),i=u(f);$(function(){(0,i.default)()}),$("button").on("click",function(){(0,o.default)()})},function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var u=function(){};e.default=u}],[2]);

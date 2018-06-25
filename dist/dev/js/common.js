@@ -105,11 +105,17 @@
 "use strict";
 
 
-console.log('this is form validate');
-
-$(function () {
-    $('#test').html('this is a test');
+Object.defineProperty(exports, "__esModule", {
+    value: true
 });
+var formValidate = function formValidate() {
+    $(function () {
+        $('#test').html('this is a test');
+        console.log('this is form validate');
+    });
+};
+
+exports.formValidate = formValidate;
 
 /***/ })
 /******/ ]);
